@@ -1,0 +1,324 @@
+Uri: https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Syne:wght@400..800&display=swap
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/delagothicone/v16/hESp6XxvMDRA-2eD0lXpDa6QkBAGRQ.ttf
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\s\delagothicone\v16\hESp6XxvMDRA-2eD0lXpDa6QkBAGRQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v22/8vIS7w4qzmVxsWxjBZRjr0FKM_04uT6k.ttf
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\s\syne\v22\8vIS7w4qzmVxsWxjBZRjr0FKM_04uT6k.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v22/8vIS7w4qzmVxsWxjBZRjr0FKM_0KuT6k.ttf
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\s\syne\v22\8vIS7w4qzmVxsWxjBZRjr0FKM_0KuT6k.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v22/8vIS7w4qzmVxsWxjBZRjr0FKM_24vj6k.ttf
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\s\syne\v22\8vIS7w4qzmVxsWxjBZRjr0FKM_24vj6k.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v22/8vIS7w4qzmVxsWxjBZRjr0FKM_3fvj6k.ttf
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\s\syne\v22\8vIS7w4qzmVxsWxjBZRjr0FKM_3fvj6k.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v22/8vIS7w4qzmVxsWxjBZRjr0FKM_3mvj6k.ttf
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\s\syne\v22\8vIS7w4qzmVxsWxjBZRjr0FKM_3mvj6k.ttf
+Content Type: font/ttf
+
+Uri: https://html.slicemypage.com/boka/
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\index.htm
+Content Type: text/html
+
+Uri: https://html.slicemypage.com/boka/include/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://html.slicemypage.com/boka/include/css/fontawesome.min.css
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://html.slicemypage.com/boka/include/css/style.css
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\css\style.css
+Content Type: text/css
+
+Uri: https://html.slicemypage.com/boka/include/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://html.slicemypage.com/boka/include/images/about-icon.png
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\about-icon.png
+Content Type: image/png
+
+Uri: https://html.slicemypage.com/boka/include/images/about-img.jpg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\about-img.jpg
+Content Type: image/jpeg
+
+Uri: https://html.slicemypage.com/boka/include/images/awwwards-logo.png
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\awwwards-logo.png
+Content Type: image/png
+
+Uri: https://html.slicemypage.com/boka/include/images/blog-icon.png
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\blog-icon.png
+Content Type: image/png
+
+Uri: https://html.slicemypage.com/boka/include/images/blog-img1.jpg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\blog-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.slicemypage.com/boka/include/images/blog-img2.jpg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\blog-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.slicemypage.com/boka/include/images/blog-img3.jpg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\blog-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.slicemypage.com/boka/include/images/boka-logo.png
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\boka-logo.png
+Content Type: image/png
+
+Uri: https://html.slicemypage.com/boka/include/images/client-logo1.png
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\client-logo1.png
+Content Type: image/png
+
+Uri: https://html.slicemypage.com/boka/include/images/client-logo2.png
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\client-logo2.png
+Content Type: image/png
+
+Uri: https://html.slicemypage.com/boka/include/images/client-logo3.png
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\client-logo3.png
+Content Type: image/png
+
+Uri: https://html.slicemypage.com/boka/include/images/client-logo4.png
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\client-logo4.png
+Content Type: image/png
+
+Uri: https://html.slicemypage.com/boka/include/images/contact-icon.png
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\contact-icon.png
+Content Type: image/png
+
+Uri: https://html.slicemypage.com/boka/include/images/css3-logo.svg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\css3-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://html.slicemypage.com/boka/include/images/favicon.png
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\favicon.png
+Content Type: image/png
+
+Uri: https://html.slicemypage.com/boka/include/images/figma-logo.svg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\figma-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://html.slicemypage.com/boka/include/images/fwa-logo.png
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\fwa-logo.png
+Content Type: image/png
+
+Uri: https://html.slicemypage.com/boka/include/images/hero.jpg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\hero.jpg
+Content Type: image/jpeg
+
+Uri: https://html.slicemypage.com/boka/include/images/html5-logo.svg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\html5-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://html.slicemypage.com/boka/include/images/javascript-logo.svg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\javascript-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://html.slicemypage.com/boka/include/images/landing-img/boka-version1-preview.png
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\landing-img\boka-version1-preview.png
+Content Type: image/png
+
+Uri: https://html.slicemypage.com/boka/include/images/landing-img/boka-version2-preview.png
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\landing-img\boka-version2-preview.png
+Content Type: image/png
+
+Uri: https://html.slicemypage.com/boka/include/images/landing-img/boka-version3-preview.png
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\landing-img\boka-version3-preview.png
+Content Type: image/png
+
+Uri: https://html.slicemypage.com/boka/include/images/next-js-logo.svg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\next-js-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://html.slicemypage.com/boka/include/images/portfolio-icon.png
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\portfolio-icon.png
+Content Type: image/png
+
+Uri: https://html.slicemypage.com/boka/include/images/portfolio1.jpg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\portfolio1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.slicemypage.com/boka/include/images/portfolio2.jpg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\portfolio2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.slicemypage.com/boka/include/images/portfolio3.jpg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\portfolio3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.slicemypage.com/boka/include/images/portfolio4.jpg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\portfolio4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.slicemypage.com/boka/include/images/react-logo.svg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\react-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://html.slicemypage.com/boka/include/images/resume-icon.png
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\resume-icon.png
+Content Type: image/png
+
+Uri: https://html.slicemypage.com/boka/include/images/service1-mob.jpg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\service1-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://html.slicemypage.com/boka/include/images/service1.jpg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\service1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.slicemypage.com/boka/include/images/service2-mob.jpg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\service2-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://html.slicemypage.com/boka/include/images/service2.jpg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\service2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.slicemypage.com/boka/include/images/service3-mob.jpg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\service3-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://html.slicemypage.com/boka/include/images/service3.jpg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\service3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.slicemypage.com/boka/include/images/service4-mob.jpg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\service4-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://html.slicemypage.com/boka/include/images/service4.jpg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\service4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.slicemypage.com/boka/include/images/service5-mob.jpg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\service5-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://html.slicemypage.com/boka/include/images/service5.jpg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\service5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.slicemypage.com/boka/include/images/service6-mob.jpg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\service6-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://html.slicemypage.com/boka/include/images/service6.jpg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\service6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.slicemypage.com/boka/include/images/services-icon.png
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\services-icon.png
+Content Type: image/png
+
+Uri: https://html.slicemypage.com/boka/include/images/signature.png
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\signature.png
+Content Type: image/png
+
+Uri: https://html.slicemypage.com/boka/include/images/typescript-logo.svg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\typescript-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://html.slicemypage.com/boka/include/images/webbyawards-logo.png
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\webbyawards-logo.png
+Content Type: image/png
+
+Uri: https://html.slicemypage.com/boka/include/images/wordpress-logo.svg
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\images\wordpress-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://html.slicemypage.com/boka/include/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://html.slicemypage.com/boka/include/js/custom.js
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\js\custom.js
+Content Type: application/javascript
+
+Uri: https://html.slicemypage.com/boka/include/js/gsap.min.js
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\js\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://html.slicemypage.com/boka/include/js/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\js\jquery-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://html.slicemypage.com/boka/include/js/jquery.validate.min.js
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://html.slicemypage.com/boka/include/js/ScrollTrigger.min.js
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\js\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://html.slicemypage.com/boka/include/js/SplitText.min.js
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\js\SplitText.min.js
+Content Type: application/javascript
+
+Uri: https://html.slicemypage.com/boka/include/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://html.slicemypage.com/boka/include/js/TextPlugin.min.js
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\js\TextPlugin.min.js
+Content Type: application/javascript
+
+Uri: https://html.slicemypage.com/boka/include/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.slicemypage.com/boka/include/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.slicemypage.com/boka/include/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.slicemypage.com/boka/include/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.slicemypage.com/boka/include/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.slicemypage.com/boka/include/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://html.slicemypage.com/boka/include/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\webfonts\fa-v4compatibility.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.slicemypage.com/boka/include/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\include\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://html.slicemypage.com/boka/index-v1.html
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\index-v1.html
+Content Type: text/html
+
+Uri: https://html.slicemypage.com/boka/index-v2.html
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\index-v2.html
+Content Type: text/html
+
+Uri: https://html.slicemypage.com/boka/index-v3.html
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\boka\index-v3.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-BR16VE3PE4
+File Name: C:\Downloaded Web Sites\html.slicemypage.com\gtag\js
+Content Type: application/javascript
+
