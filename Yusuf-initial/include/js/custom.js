@@ -42,9 +42,9 @@ jQuery(document).ready(function ($) {
 
   //02. START -- reset all animation for .animate-child class in each section
   function resetAnimations() {
-    gsap.set('.animate-child > *', {opacity: 0, y: 60, rotate: 3})
-    gsap.set('hr', {width: 0})
-    gsap.set('.count', {innerText: 0})
+    gsap.set('.animate-child > *', { opacity: 0, y: 60, rotate: 3 })
+    gsap.set('hr', { width: 0 })
+    gsap.set('.count', { innerText: 0 })
   }
   resetAnimations()
   //02. END -- reset all animation for .animate-child class in each section
@@ -94,9 +94,9 @@ jQuery(document).ready(function ($) {
   //06. START -- animation for hero text after navigation go full width
   function heroTextAnimation(targetHeroText) {
     var heroText = $(targetHeroText)
-    var heroTextSplit = new SplitText(heroText, {type: 'words'})
+    var heroTextSplit = new SplitText(heroText, { type: 'words' })
     //now animate each character into place
-    gsap.from(heroTextSplit.words, {delay: 0.5, duration: 0.7, x: 20, autoAlpha: 0, stagger: 0.05})
+    gsap.from(heroTextSplit.words, { delay: 0.5, duration: 0.7, x: 20, autoAlpha: 0, stagger: 0.05 })
 
     // Revert the text back to its original state after the animation
     setTimeout(function () {
@@ -155,11 +155,11 @@ jQuery(document).ready(function ($) {
         onEnter: function () {
           gsap.fromTo(
             $numberElem,
-            {innerText: 0},
+            { innerText: 0 },
             {
               innerText: targetValue,
               duration: 2,
-              snap: {innerText: 1},
+              snap: { innerText: 1 },
               ease: 'power1.inOut',
               onUpdate: function () {
                 $numberElem.text(Math.ceil($numberElem.text()))
@@ -237,6 +237,49 @@ jQuery(document).ready(function ($) {
   //10. END -- Add class to body when navigation toggle
 
   //11. START -- Dark/Light mode switch
+
+  /************ EmailJS Form Submission ************/
+  $('#messageForm').on('submit', function (event) {
+    event.preventDefault(); // Prevent the form from submitting the default way
+
+    // Initialize EmailJS with your user ID
+    emailjs.init("MPRjvJHhHjrXzlIyC");
+
+    // Show loading spinner and hide the button temporarily
+    $('.loading').show();
+    $('button[type="submit"]').prop('disabled', true);
+
+    // Send the form data to EmailJS
+    emailjs
+      .sendForm('service_vlcvkvm', 'template_ydfnrdi', this)
+      .then(
+        function (response) {
+          console.log('Success:', response);
+
+          // Display success message
+          $('#success').show();
+          $('#error').hide();
+
+          // Clear form after submission
+          $('#messageForm')[0].reset();
+        },
+        function (error) {
+          console.log('Error:', error);
+
+          // Display error message
+          $('#success').hide();
+          $('#error').show();
+        }
+      )
+      .finally(() => {
+        // Hide loading spinner and re-enable button
+        $('.loading').hide();
+        $('button[type="submit"]').prop('disabled', false);
+      });
+  });
+  /************ EmailJS Form Submission END ************/
+
+
   const bodyParent = $('body')
   const button = $('.theme-toggler')
 
@@ -362,8 +405,8 @@ jQuery(document).ready(function ($) {
         .slice(showing - 0, showing + numToShow)
         .fadeIn()
         .addClass('new-post')
-      gsap.set('.new-post hr', {width: 0})
-      gsap.set('.new-post .animate-child > *', {opacity: 0, y: 60, rotate: 3})
+      gsap.set('.new-post hr', { width: 0 })
+      gsap.set('.new-post .animate-child > *', { opacity: 0, y: 60, rotate: 3 })
       newPostAnimation()
       const nowShowing = list.filter(':visible').length
       if (nowShowing >= numInList) {
